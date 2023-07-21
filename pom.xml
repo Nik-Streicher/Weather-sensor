@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>cz.streicher.project3</groupId>
-	<artifactId>project3</artifactId>
+	<artifactId>weather sensor</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>project3</name>
 	<description>realization of the project3</description>
