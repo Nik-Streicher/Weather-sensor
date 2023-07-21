@@ -1,4 +1,4 @@
-# Project 3
+# Weather sensor
 REST application, developed in the course.
 
 Program for processing data from a weather sensor.
